@@ -5,3 +5,7 @@
 /examples.obj
 /examples.pdb
 /vc140.pdb
+*.exe
+*.ilk
+*.obj
+*.pdb
